@@ -4,4 +4,4 @@ Created several reports with information on following factors which will help  t
 Overview- Count of  employees, Avg Age , Attrition, attrition rate, Avg Salary, Avg Years etc.
 Demographics- age, gender etc.
 Performance Tracker- job satisfaction according to job role etc.
-Attrition- attrition  on the basis of education, Salary, Age, Year, Job Role etc.
+Attrition- attrition  on the basis of education, Salary, Age, Year, Job Role, Gender  etc.
